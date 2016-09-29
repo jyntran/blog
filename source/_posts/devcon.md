@@ -1,5 +1,5 @@
 title: Creating Device Manager shortcuts using Devcon 
-date: 
+date: 2015-08-25 18:00:00
 tags:
 - windows
 - devcon

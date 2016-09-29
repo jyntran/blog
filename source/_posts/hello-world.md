@@ -3,6 +3,8 @@ tags:
 - hello world
 - hexo
 - swig
+date: 2015-08-20 16:09:00
+ 
 ---
 
 I thought I would start trying a blog platform on NodeJS and see how it goes. This is Hexo, which was simple to set up and looks pretty nice to boot.
