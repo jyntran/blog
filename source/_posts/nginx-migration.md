@@ -2,6 +2,8 @@ title: Nginx Migration
 tags:
   - nginx
   - php
+  - nodejs
+  - virtual host
 date: 2016-10-04 17:35:58
 ---
 
