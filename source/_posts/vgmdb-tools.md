@@ -1,4 +1,4 @@
-title: Introducting VGMdb Tools
+title: Introducing VGMdb Tools
 tags:
   - vgmdb
   - flask
